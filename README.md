@@ -1,2 +1,2 @@
 # EpiK
-Simple TV sersies progress tracker
+Simple TV series progress tracker
