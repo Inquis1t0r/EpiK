@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/epik.iml" filepath="$PROJECT_DIR$/epik.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/epik_main.iml" filepath="$PROJECT_DIR$/.idea/modules/epik_main.iml" group="epik" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/epik_test.iml" filepath="$PROJECT_DIR$/.idea/modules/epik_test.iml" group="epik" />
+    </modules>
+  </component>
+</project>
